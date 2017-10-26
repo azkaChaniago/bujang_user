@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.root.bujang_user.ProfileActivity"
+    tools:showIn="@layout/activity_profile"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:background="@drawable/bg_main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/shape_pointed"
+        android:padding="0dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/amber_600"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="0dp">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/female"
+                android:padding="5dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Astrini Adeswari"
+                android:textColor="@android:color/secondary_text_light"
+                android:textSize="16sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NIK. 1804021701880004"
+                android:textColor="@android:color/white"
+                android:padding="5dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Deskripsi usaha"
+                android:background="@color/amber_200"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@android:color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Menjual lele krispi, yang bisa berupa filet, atau wujud kecil-kecil hingga gampang dinikmati. Enak, gurih dan tahan [...]"
+                android:lines="4"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Informasi kontak"
+                android:background="@color/amber_200"
+                android:padding="5dp"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="5dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="No Telp.          : +62856-0958-0788\nInstagram       : @lele_krispy\nE-mail              : astrini_adeswari@gmail.com"
+                android:lines="4"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Alamat"
+                android:background="@color/amber_200"
+                android:padding="5dp"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="5dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Jl. Wijaya No.118 Metro, Lampung, Indonesia"
+                android:lines="3"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/amber_600"/>
+    </LinearLayout>
+
+</LinearLayout>

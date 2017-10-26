@@ -1,0 +1,169 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.root.bujang_user.MainActivity"
+    android:background="@drawable/bg_main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="25dp"
+            android:background="#22909090"
+            android:paddingTop="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingLeft="10dp"
+                android:paddingBottom="0dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:hint="Pertanyaan"
+                android:background="@drawable/shape_qa_send_form"
+                tools:ignore="RtlSymmetry" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/ic_send_black_24dp"
+                android:background="@drawable/shape_send"
+                android:elevation="2dp"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/yq_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin">
+            <TextView
+                android:id="@+id/your_question"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pertanyaan anda"
+                android:textSize="16sp"
+                android:padding="5dp"
+                android:background="@color/amber_200"
+                android:layout_marginBottom="-10dp"
+                android:layout_marginLeft="10dp"
+                android:elevation="1dp"/>
+            <TextView
+                android:id="@+id/yq_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Apa pakan alternatif untuk lele selain pelet, biar bisa.."
+                android:textSize="14sp"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:layout_below="@+id/your_question"
+                android:background="@drawable/shape_qa" />
+            <TextView
+                android:id="@+id/yq_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bagaimana proses awal dalam pembudidayaan ikan.."
+                android:textSize="14sp"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:layout_below="@+id/yq_1"
+                android:background="@drawable/shape_qa" />
+            <TextView
+                android:id="@+id/yq_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Apakah dengan dengan modal 500rb bisa memulai.."
+                android:textSize="14sp"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:layout_below="@+id/yq_2"
+                android:background="@drawable/shape_qa" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/fq_container"
+            android:labelFor="@+id/yq_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin" >
+            <TextView
+                android:id="@+id/fav_question"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pertanyaan yang mungkin anda sukai"
+                android:textSize="16sp"
+                android:padding="5dp"
+                android:background="@color/amber_200"
+                android:layout_marginBottom="-10dp"
+                android:layout_marginLeft="10dp"
+                android:elevation="1dp"/>
+            <TextView
+                android:id="@+id/fq_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Saya memiliki usaha keripik biji durian, tetapi saya.."
+                android:textSize="14sp"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:layout_below="@+id/fav_question"
+                android:background="@drawable/shape_qa" />
+            <TextView
+                android:id="@+id/fq_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bagaimana prosedur untuk mendapatkan label halal"
+                android:textSize="14sp"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:layout_below="@+id/fq_1"
+                android:background="@drawable/shape_qa" />
+            <TextView
+                android:id="@+id/fq_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Saya tinggal di daerah pesisir, dan saya punya.."
+                android:textSize="14sp"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:layout_below="@+id/fq_2"
+                android:background="@drawable/shape_qa" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tampilkan lebih"
+                android:padding="5dp"
+                android:textColor="#fff"
+                android:background="#828282"
+                android:layout_below="@+id/fq_3"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="-10dp"
+                android:elevation="1dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

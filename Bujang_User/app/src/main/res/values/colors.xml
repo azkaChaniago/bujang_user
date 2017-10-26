@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_100">#FFF8E1</color>
+    <color name="amber_200">#FFCF21</color>
+    <color name="amber_600">#FFC107</color>
+    <color name="amber_900">#FFA000</color>
+    <color name="blue_a700">#2962FF</color>
+</resources>

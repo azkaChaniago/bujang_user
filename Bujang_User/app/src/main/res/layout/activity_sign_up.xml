@@ -1,0 +1,149 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context="com.example.root.bujang_user.SignUpActivity"
+    android:background="@drawable/bg_main">
+
+    <!-- Login progress -->
+    <ProgressBar
+        android:id="@+id/login_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+
+    <ScrollView
+        android:id="@+id/signup_form"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/email_signup_form"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="-50dp"
+                android:src="@drawable/sign_up_ico" />
+
+            <LinearLayout
+                android:id="@+id/email_signup_form"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:background="@drawable/shape_pointed"
+                android:orientation="vertical">
+
+
+                <EditText
+                    android:id="@+id/complete_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="@string/nama_lengkap"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"
+                    android:padding="8dp" />
+
+                <EditText
+                    android:id="@+id/no_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="@string/no_ktp"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="8dp" />
+
+                <EditText
+                    android:id="@+id/venture_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="@string/venture_type"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="8dp" />
+
+                <EditText
+                    android:id="@+id/venture_sum"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="@string/venture_sum"
+                    android:inputType="textMultiLine"
+                    android:lines="4"
+                    android:maxLines="4"
+                    android:padding="8dp" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="Jenis kelamin"
+                    android:padding="8dp" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="Tempat lahir"
+                    android:padding="8dp" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="Tanggal lahir"
+                    android:inputType="datetime"
+                    android:padding="8dp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/email_sign_up_button"
+            style="?android:textAppearanceMedium"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/button"
+            android:text="@string/buat_akun"
+            android:textStyle="bold" />
+    </RelativeLayout>
+</LinearLayout>

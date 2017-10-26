@@ -1,0 +1,129 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.root.bujang_user.MainActivity"
+    android:background="@drawable/bg_main">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin">
+        <RelativeLayout
+            android:id="@+id/info_ukm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="0dp"
+            android:layout_marginBottom="20dp">
+
+            <ImageView
+                android:id="@+id/img_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/infoukm" />
+
+            <TextView
+                android:id="@+id/txt_cap_1"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="#994fff1f"
+                android:text="Menteri UKM Dan Koperasi Berikan Penghargaan Kep [...]"
+                android:textColor="#fff"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:padding="10dp"
+                android:layout_alignBottom="@+id/img_1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="INFO UKM"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:background="#9f9f9f"
+                android:layout_above="@+id/txt_cap_1"
+                android:layout_marginBottom="-10dp"
+                android:layout_marginLeft="10dp"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/tokoh_ukm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="0dp"
+            android:layout_below="@+id/info_ukm"
+            android:layout_marginBottom="20dp">
+
+            <ImageView
+                android:id="@+id/img_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tokohukm" />
+
+            <TextView
+                android:id="@+id/txt_cap_2"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="#99ff0fff"
+                android:text="Perjalanan Karir MILIUNER BATIK Dea Valencia"
+                android:textColor="#fff"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:padding="10dp"
+                android:layout_alignBottom="@+id/img_2"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TOKOH"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:background="#9f9f9f"
+                android:layout_above="@+id/txt_cap_2"
+                android:layout_marginBottom="-10dp"
+                android:layout_marginLeft="10dp"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/tips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="0dp"
+            android:layout_below="@id/tokoh_ukm"
+            android:layout_marginBottom="20dp">
+
+            <ImageView
+                android:id="@+id/img_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tips_ukm" />
+
+            <TextView
+                android:id="@+id/txt_cap_3"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="#994fff1f"
+                android:text="Kursus Elektronik Cara Mudah Untuk Memulai Bisnis Service [...]"
+                android:textColor="#fff"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:padding="10dp"
+                android:layout_alignBottom="@+id/img_3"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TIPS UKM"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:background="#9f9f9f"
+                android:layout_above="@+id/txt_cap_3"
+                android:layout_marginBottom="-10dp"
+                android:layout_marginLeft="10dp"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</ScrollView>
