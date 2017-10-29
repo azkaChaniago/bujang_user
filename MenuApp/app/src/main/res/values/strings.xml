@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="new_game">New Game</string>
+    <string name="help">Help</string>
+    <string name="file">File</string>
+    <string name="create_new">New</string>
+    <string name="open">Open</string>
+    <string name="game_name">Game Name</string>
+    <string name="game_published">Published</string>
+    <string name="game_genre">Gerne</string>
+    <string name="desc_overflow_button">Description Overflow Button</string>
+    <string name="pref_sync">Synchronization</string>
+    <string name="pref_sync_summ">Enable Synchronization</string>
+    <string name="pref_syncConnectionType">Connection Type</string>
+    <string name="pref_syncConnectionType_summ">Choose connection type</string>
+    <string name="pref_sms_storage_title">Message Storage</string>
+    <string name="pref_title_auto_delete">Auto Delete</string>
+    <string name="pref_summary_auto_delete">Remove messages</string>
+    <string name="pref_title_sms_delete">Delete Messages</string>
+    <string name="pref_summary_delete_limit">Remove selected messages</string>
+    <string name="pref_title_mms_delete">Delete MMS</string>
+    <string name="voicemail">Voicemail</string>
+    <string name="voicemail_provider">Select Provider</string>
+    <string name="voicemail_settings">Voicemail settings</string>
+    <string name="voicemail_ringtone_title">Set Ringtone</string>
+    <string name="dialog_fire">Fire Misile?</string>
+    <string name="fire">FIRE!</string>
+    <string name="cancel">Nope</string>
+    <string name="compose_shortcut_short_label1">Shortcut</string>
+    <string name="compose_shortcut_long_label1">This is shortcut</string>
+    <string name="compose_disabled_message1">Click this shortcut</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_syncConnectionType_entries">Wi-fi</string-array>
+    <string-array name="pref_syncConnectionType_values">Mobile</string-array>
+    <string-array name="pref_syncConnectionType_default">Wi-fi</string-array>
+</resources>

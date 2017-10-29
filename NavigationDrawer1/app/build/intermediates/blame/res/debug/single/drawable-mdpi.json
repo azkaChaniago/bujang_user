@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable-mdpi/action_search.png",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable-mdpi/action_search.png"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_drawer.png",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable-mdpi/drawer_shadow.9.png",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

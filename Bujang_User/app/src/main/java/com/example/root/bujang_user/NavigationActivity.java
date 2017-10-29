@@ -85,6 +85,7 @@ public class NavigationActivity extends AppCompatActivity
         startActivity(intent);
     }
 
+    /*
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -106,32 +107,45 @@ public class NavigationActivity extends AppCompatActivity
 
         return super.onOptionsItemSelected(item);
     }
-
+    */
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
         // Handle navigation view item clicks here.
         int id = item.getItemId();
-
+        Intent navDrawerMenu;
         if (id == R.id.nav_register) {
             // Handle the camera action
+            navDrawerMenu = new Intent(NavigationActivity.this, UKMRegister.class);
+            startActivity(navDrawerMenu);
         } else if (id == R.id.nav_permission) {
-
+            navDrawerMenu = new Intent(NavigationActivity.this, PermissionActivity.class);
+            startActivity(navDrawerMenu);
         } else if (id == R.id.nav_capital) {
-
+            navDrawerMenu = new Intent(NavigationActivity.this, CapitalActivity.class);
+            startActivity(navDrawerMenu);
         } else if (id == R.id.nav_brand) {
-
+            navDrawerMenu = new Intent(NavigationActivity.this, CopyrightActivity.class);
+            startActivity(navDrawerMenu);
         } else if (id == R.id.nav_report) {
-
+            navDrawerMenu = new Intent(NavigationActivity.this, ReportActivity.class);
+            startActivity(navDrawerMenu);
         } else if (id == R.id.nav_demand) {
-
+            navDrawerMenu = new Intent(NavigationActivity.this, DemandActivity.class);
+            startActivity(navDrawerMenu);
         } else if (id == R.id.nav_setting) {
-
+            navDrawerMenu = new Intent(NavigationActivity.this, SettingActivity.class);
+            startActivity(navDrawerMenu);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    public void toChat(View view) {
+        Intent in =new Intent(this, QAChatActivity.class);
+        startActivity(in);
     }
 
     public class SectionsPagerAdapter extends FragmentPagerAdapter {

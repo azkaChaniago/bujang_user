@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.root.bujang_user">
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
@@ -13,8 +14,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".LoginActivity">
+        tools:replace="android:supportsRtl">
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,23 +26,114 @@
         </activity>
         <activity
             android:name=".SignUpActivity"
-            android:label="@string/title_activity_sign_up" />
+            android:label="@string/title_activity_sign_up"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:label=""
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ProfileActivity"
+            android:label="Profile"
             android:parentActivityName=".NavigationActivity"
-            android:label="Profile">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
+            android:theme="@style/AppTheme" />
         <activity
             android:name=".NavigationActivity"
-            android:label="@string/title_activity_navigation"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".QAChatActivity"
+            android:theme="@style/ActionBar"/>
+        <activity
+            android:name=".UKMRegister"
+            android:label="Keterangan"
+            android:parentActivityName=".NavigationActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".RegisteredUKM"
+            android:label="Daftar UKM"
+            android:parentActivityName=".UKMRegister"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".RegisterPopupMessage"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CopyrightActivity"
+            android:label="Keterangan"
+            android:parentActivityName=".NavigationActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".CopyrightFormActivity"
+            android:label="Pendaftaran Merek"
+            android:parentActivityName=".CopyrightActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".CopyrightPopupActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CapitalActivity"
+            android:label="Keterangan"
+            android:parentActivityName=".NavigationActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".CapitalFormActivity"
+            android:label="Modal Usaha"
+            android:parentActivityName=".CapitalActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".CapitalPopupActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PermissionActivity"
+            android:label="Keterangan"
+            android:parentActivityName=".NavigationActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".PermissionFormActivity"
+            android:label="Daftar Izin Usaha"
+            android:parentActivityName=".PermissionActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".PermissionPopupActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReportActivity"
+            android:label="Keterangan"
+            android:parentActivityName=".NavigationActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".ReportFormActivity"
+            android:label="Daftar Izin Usaha"
+            android:parentActivityName=".ReportActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".ReportPopupActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DemandActivity"
+            android:label="Permintaan Anda"
+            android:parentActivityName=".NavigationActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".ProceedActivity"
+            android:label=""
+            android:parentActivityName=".DemandActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".ProcessingActivity"
+            android:label=""
+            android:parentActivityName=".DemandActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".SettingActivity"
+            android:label="Pengaturan"
+            android:parentActivityName=".NavigationActivity"
+            android:theme="@style/ActionBar" />
+        <activity
+            android:name=".UserActivity"
+            android:label="Profil"
+            android:parentActivityName=".SettingActivity"
+            android:theme="@style/ActionBar"></activity>
     </application>
 
 </manifest>

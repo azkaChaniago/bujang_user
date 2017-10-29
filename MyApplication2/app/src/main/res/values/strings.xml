@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="textview">TextView</string>
+    <string name="tofragment">toFragment</string>
+    <string name="menu_settings">settings</string>
+    <string name="menu_help">help</string>
+    <string name="frag1">fragment 1</string>
+    <string name="frag2">fragment2</string>
+</resources>

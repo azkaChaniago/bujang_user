@@ -1,0 +1,22 @@
+#Thu Oct 26 08:37:50 WIB 2017
+renamed.6=classes3.dex
+renamed.5=classes2.dex
+renamed.4=classes5.dex
+renamed.3=classes.dex
+renamed.2=classes4.dex
+renamed.1=classes6.dex
+renamed.0=classes7.dex
+base.6=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_5af123b17aac478808d3ec82d184a3035ea63d00
+base.5=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fb774bb073e84b3b5233fa832471aaaccdfda66
+base.4=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb14a91cdceec50189a72ca0476101ea21ac0d6c
+base.3=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22a6315a4cec34738e7cf82892fd04fd02b47114
+base.2=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67f467f49f3e1b99374f032f14e672f1efd688d4
+base.1=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44263708ae8d45b92a3e8496b39b2a9041a0e8a3
+base.0=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abef2fec9b0955e3091279cdc0d144a28761ad38
+file.6=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_5af123b17aac478808d3ec82d184a3035ea63d00/classes.dex
+file.5=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fb774bb073e84b3b5233fa832471aaaccdfda66/classes.dex
+file.4=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb14a91cdceec50189a72ca0476101ea21ac0d6c/classes.dex
+file.3=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22a6315a4cec34738e7cf82892fd04fd02b47114/classes.dex
+file.2=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67f467f49f3e1b99374f032f14e672f1efd688d4/classes.dex
+file.1=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44263708ae8d45b92a3e8496b39b2a9041a0e8a3/classes.dex
+file.0=/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abef2fec9b0955e3091279cdc0d144a28761ad38/classes.dex

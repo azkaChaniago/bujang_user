@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/azka/.android/build-cache/ac0358c04d29f1234f6d96a7faae3766bc94d9a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_b4d95213c31c01f639c7e35acc1ebfd9e97bb77e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/.android/build-cache/ac0358c04d29f1234f6d96a7faae3766bc94d9a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4d95213c31c01f639c7e35acc1ebfd9e97bb77e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/azka/.android/build-cache/20e1685fec64c3037c97a1f1baec7f6eb3d214c5/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_a9d2efd55815ea572091ccabb065f099454d5e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/azka/.android/build-cache/61755cb000b0d0005bf82a3ad792f839265ed681/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_1d0c6d3a235af6857586d9710950979dac78136e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f00e9ab5bb11a124d6c71feaebfa64f0cbae80e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/.android/build-cache/61755cb000b0d0005bf82a3ad792f839265ed681/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d0c6d3a235af6857586d9710950979dac78136e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/.android/build-cache/20e1685fec64c3037c97a1f1baec7f6eb3d214c5/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_a9d2efd55815ea572091ccabb065f099454d5e3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb30df365596f783196fef1f56ccf7fafe1c31e1">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e2b0b89a2dd9ea44ec290b0dbb4b2a8b5d64de5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/.android/build-cache/fae91de894b7600e4d22d5e175b1c9e2a72ca645/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e61fe06d04974fa2a7867be1f37b41a3b9e3f5c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f0c95dff2710fa374c276344bfafeaf582e0ed95/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/azka/.android/build-cache/b52806268e9a9f3c2cd4e20931fb08047d8d4896/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_ff51112bebaaa056361c6a60f1aa91c74777802b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/.android/build-cache/b52806268e9a9f3c2cd4e20931fb08047d8d4896/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff51112bebaaa056361c6a60f1aa91c74777802b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/azka/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_f0c95dff2710fa374c276344bfafeaf582e0ed95.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/.android/build-cache/20e1685fec64c3037c97a1f1baec7f6eb3d214c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7ac39288d0816621e2f8c2f7112a6f52b397bf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/azka/.android/build-cache/694cb7b02b2e72742bc7f778c25a2b57adc0dcc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_01eed2e8301cc64313a012b679f13f1148448487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/azka/.android/build-cache/fae91de894b7600e4d22d5e175b1c9e2a72ca645/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_e61fe06d04974fa2a7867be1f37b41a3b9e3f5c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/.android/build-cache/694cb7b02b2e72742bc7f778c25a2b57adc0dcc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01eed2e8301cc64313a012b679f13f1148448487/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/azka/.android/build-cache/20e1685fec64c3037c97a1f1baec7f6eb3d214c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_a7ac39288d0816621e2f8c2f7112a6f52b397bf8.jar" />
+    </item>
+
+</items>

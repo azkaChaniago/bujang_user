@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_main">
+
+    <!-- Login progress -->
+    <ProgressBar
+        android:id="@+id/login_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+
+    <ScrollView
+        android:id="@+id/signup_form"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_above="@+id/email_signup_form"
+                android:layout_marginBottom="-40dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/pangajuan" />
+
+            <LinearLayout
+                android:id="@+id/email_signup_form"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:background="@drawable/shape_pointed"
+                android:orientation="vertical">
+
+
+                <EditText
+                    android:id="@+id/no_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="@string/no_ktp"
+                    android:inputType="text"
+                    android:padding="8dp" />
+
+                <EditText
+                    android:id="@+id/npwp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="NPWP"
+                    android:inputType="text"
+                    android:padding="8dp" />
+
+                <Spinner
+                    android:id="@+id/venture_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_text"
+                    android:hint="@string/venture_type"
+                    android:inputType="text"
+                    android:padding="8dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/image_upload"
+                    android:layout_marginBottom="15dp">
+                    <EditText
+                        android:id="@+id/img_dir"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="5dp"
+                        android:hint="Upload SIUP"
+                        android:inputType="text"
+                        android:padding="8dp"
+                        android:layout_weight="1"
+                        android:background="@android:color/transparent"/>
+                    <Button
+                        android:id="@+id/buttonLoadPicture"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Browse"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/button_upload"
+                        android:textColor="@color/grey_900"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/image_upload"
+                    android:layout_marginBottom="15dp">
+                    <EditText
+                        android:id="@+id/img_proposal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="5dp"
+                        android:hint="Upload proposal usaha"
+                        android:inputType="text"
+                        android:padding="8dp"
+                        android:layout_weight="1"
+                        android:background="@android:color/transparent"/>
+                    <Button
+                        android:id="@+id/buttonLoadProposal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Browse"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/button_upload"
+                        android:textColor="@color/grey_900"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin">
+
+        <Button
+            android:id="@+id/capital_btn"
+            style="?android:textAppearanceMedium"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/button"
+            android:text="Kirim" />
+    </RelativeLayout>
+</LinearLayout>

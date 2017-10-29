@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+    <string name="action_settings">settings</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="pref_sync">Synchronization Preference</string>
+    <string name="pref_sync_summ">This is synchronazions menu</string>
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>

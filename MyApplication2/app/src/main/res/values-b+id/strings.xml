@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiKu</string>
+    <string name="edit_message">Ketik Pesan..</string>
+    <string name="button_send">Kirim</string>
+    <string name="textview">TextView</string>
+    <string name="tofragment">toFragment</string>
+</resources>

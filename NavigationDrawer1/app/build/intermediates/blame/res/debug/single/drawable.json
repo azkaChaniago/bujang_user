@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/venus.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/venus.jpg"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/earth.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/earth.jpg"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/mercury.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/mercury.jpg"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/uranus.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/uranus.jpg"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/mars.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/mars.jpg"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/saturn.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/saturn.jpg"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/jupiter.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/jupiter.jpg"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/neptune.jpg",
+        "source": "/home/azka/AndroidStudioProjects/NavigationDrawer1/app/src/main/res/drawable/neptune.jpg"
+    }
+]

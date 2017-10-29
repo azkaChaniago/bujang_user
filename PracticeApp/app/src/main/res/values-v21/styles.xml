@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.TextTitle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryInverse">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@android:color/background_light</item>
+        <item name="android:statusBarColor">?android:attr/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">?attr/colorPrimaryDark</item>
+        <item name="android:colorBackground">?attr/colorBackgroundFloating</item>
+        <item name="android:colorForeground">@android:color/holo_orange_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="android:textColorPrimaryInverse">@android:color/black</item>
+        <item name="android:textColorSecondaryInverse">@android:color/holo_red_light</item>
+        <item name="android:textColorSecondary">@android:color/black</item>
+    </style>
+</resources>

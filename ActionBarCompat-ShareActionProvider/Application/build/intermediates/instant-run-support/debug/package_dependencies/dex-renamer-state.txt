@@ -1,0 +1,25 @@
+#Sun Sep 24 15:38:58 WIB 2017
+renamed.7=classes3.dex
+renamed.6=classes5.dex
+renamed.5=classes8.dex
+renamed.4=classes4.dex
+renamed.3=classes7.dex
+renamed.2=classes.dex
+renamed.1=classes6.dex
+renamed.0=classes2.dex
+base.7=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff51112bebaaa056361c6a60f1aa91c74777802b
+base.6=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f0c95dff2710fa374c276344bfafeaf582e0ed95
+base.5=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7ac39288d0816621e2f8c2f7112a6f52b397bf8
+base.4=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e61fe06d04974fa2a7867be1f37b41a3b9e3f5c8
+base.3=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01eed2e8301cc64313a012b679f13f1148448487
+base.2=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4d95213c31c01f639c7e35acc1ebfd9e97bb77e
+base.1=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d0c6d3a235af6857586d9710950979dac78136e
+base.0=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_a9d2efd55815ea572091ccabb065f099454d5e3a
+file.7=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff51112bebaaa056361c6a60f1aa91c74777802b/classes.dex
+file.6=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f0c95dff2710fa374c276344bfafeaf582e0ed95/classes.dex
+file.5=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7ac39288d0816621e2f8c2f7112a6f52b397bf8/classes.dex
+file.4=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e61fe06d04974fa2a7867be1f37b41a3b9e3f5c8/classes.dex
+file.3=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01eed2e8301cc64313a012b679f13f1148448487/classes.dex
+file.2=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4d95213c31c01f639c7e35acc1ebfd9e97bb77e/classes.dex
+file.1=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d0c6d3a235af6857586d9710950979dac78136e/classes.dex
+file.0=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_a9d2efd55815ea572091ccabb065f099454d5e3a/classes.dex

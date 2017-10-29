@@ -40,4 +40,58 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="registration_text">
+        Layanan ini ditujukan untuk mempermudah para pelaku UKM untuk mendaftarkan usahanya, dengan tujuan untuk mempercepat tujuan usaha mikro dan kecil di Indonesia\n\n
+        Sesuai dengan revisi Perpres Nomor 98 Tahun 2014 tentang izin usaha mikro dan kecil yang memutuskan menghapus proses perizinan untuk pendirian usaha mikro dan kecil. Pelaku usahan yang akan mendirikan usaha mikro atau kecil cukup mendaftar usahanya saja sebelum memulai usaha
+    </string>
+    <string name="popup_register">
+        Terimakasih...\n
+        Pendaftaran Usaha Mikro dan Kecil anda telah terkirim
+    </string>
+    <string name="copyright_text">
+        Pelayanan ini ditujukan untuk mempermudah para pelaku bisnis dengan mendaftarkan merek dagangnya sehingga mencegah orang lain memakai merek yang sama keseluruhan
+        atau sama pada pokoknya dalam peredaran untuk barang/jasa sejenisnya. \n
+        Dasar hukum untuk hak merek diatur dalam undang-undang No. 15 Tahun 2001 tentang Merek(UUM)
+    </string>
+    <string name="popup_copyright">
+        Terimakasih..\n Pendaftaran Merek anda telah terkirim
+    </string>
+    <string name="capital_text">
+        Program ini merupakan amanat RPJMN 2015-2019 yang menargetkan satu juta wirausahawan baru dan Kemenkop UKM mendapatkan alokasi 24.800 wirausahawan baru.
+        \n\n
+        Persyaratan : \n
+        1. Memiliki rintisan usaha produktif dengan minimal usaha sudah berjalan dengan enam bulan dan maksimal tiga tahun\n
+        2. Belum pernah menerima bantuan sejenis dari Kemenkop dan UKM\n
+        3. Maksiman usia 45 tahun\n
+        4. Pendidikan minimal SLTP/Sederajat\n
+        5. Memiliki KTP yang berlaku\n
+        6. Ada legalitas usaha (ijin usaha mikro kecil)
+    </string>
+    <string name="popup_capital">
+        Terimakasih..\n
+        Pengajuan modal anda telah terkirim
+    </string>
+    <string name="permission_text">
+        Layanan ini ditujukan untuk mempermudah pelaku usaha untuk mendapatkan izin usaha dari pemerintah Indonesia.
+        Dimana setiap Perusahaan yang melakukan usaha perdagangan wajib untuk memiliki surat izin usaha perdagangan (SIUP).\n\n
+        Kegunaan kepemilikan Surat Izin Usaha Perdagangan adalah sebagai berikut : \n\n
+        1. Sebagai alat pengesahan yang diberikan oleh pemerintah, sehingga dalam kegiatan usaha tidak terjadi masalah perizinan.\n
+        2. Dengan memiliki Surat Izin Usaha Perdagangan dapat memperlancarkan perdagangan export dan import.\n
+        3. Sebagai syarat untuk mengikuti kegiatan lelang yang diselenggarakan oleh pemerintah.
+    </string>
+    <string name="popup_permission">
+        Terimakasih..\n
+        Pendaftaran izin usaha anda telah terkirim
+    </string>
+    <string name="report_text">
+        Layanan ini ditujukan untuk meningkatkan partisipasi dan rasa kepedulian masyarakat dalam pelaksanaan pelayanan publik.\n\n
+        Adapun peraturan perundang-undangan yang mengatur tentang partisipasi masyarakat dalam pelayanan publik antara lain :
+        UU No. 25 Tahun 2009 tentang Pelayanan Publik, Peraturan Presiden No. 76 Tahun 2013 tentang Pengaduan Pelayanan Publik dan
+        Permenpan No. 13 Tahun 2009 tentang Pedoman Peningkatan Kualitas Pelyanan Publik dengan Partisipasi Masyarakat.
+    </string>
+    <string name="popup_report">
+        Terimakasih..\n
+        Pengaduan anda telah terkirim
+    </string>
 </resources>

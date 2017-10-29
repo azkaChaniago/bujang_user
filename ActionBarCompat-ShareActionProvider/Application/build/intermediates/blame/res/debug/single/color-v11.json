@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/azka/.android/build-cache/ac0358c04d29f1234f6d96a7faae3766bc94d9a6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/azka/.android/build-cache/ac0358c04d29f1234f6d96a7faae3766bc94d9a6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

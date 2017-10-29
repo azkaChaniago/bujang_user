@@ -1,0 +1,7 @@
+#Sun Sep 24 15:38:58 WIB 2017
+base.0=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e2b0b89a2dd9ea44ec290b0dbb4b2a8b5d64de5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f00e9ab5bb11a124d6c71feaebfa64f0cbae80e7/classes.dex
+base.1=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f00e9ab5bb11a124d6c71feaebfa64f0cbae80e7
+file.0=/home/azka/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e2b0b89a2dd9ea44ec290b0dbb4b2a8b5d64de5/classes.dex

@@ -59,7 +59,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Menjual lele krispi, yang bisa berupa filet, atau wujud kecil-kecil hingga gampang dinikmati. Enak, gurih dan tahan [...]"
-                android:lines="4"/>
+                android:lines="4"
+                android:textColor="@color/grey_900"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -72,7 +73,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="No Telp.          : +62856-0958-0788\nInstagram       : @lele_krispy\nE-mail              : astrini_adeswari@gmail.com"
-                android:lines="4"/>
+                android:lines="4"
+                android:textColor="@color/grey_900"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -85,7 +87,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Jl. Wijaya No.118 Metro, Lampung, Indonesia"
-                android:lines="3"/>
+                android:lines="3"
+                android:textColor="@color/grey_900"/>
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"

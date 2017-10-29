@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3fb16c0c9bfa1776adaa4722da0e20059bd96af7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22a6315a4cec34738e7cf82892fd04fd02b47114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94b29caa98d42bed6260401427d57b6853896b23">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0d7da1f439acdd050445e821bf97d5356745e132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4b6ae12cb720af744b3c0eac024e16d4974c72b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb14a91cdceec50189a72ca0476101ea21ac0d6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52c44d95db33ae91d53c2e21b252a38b2b6bd778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3fef76cd62f82997eab93fb5e17e8b92d1530bd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abef2fec9b0955e3091279cdc0d144a28761ad38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/22b656327e181371ec490e777db197120c804cc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67f467f49f3e1b99374f032f14e672f1efd688d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1c4dcbfff1933969cfea94205627c2345bf9f643/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44263708ae8d45b92a3e8496b39b2a9041a0e8a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4451c0ab814004e8a293a2916c99c9ea47b970cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fb774bb073e84b3b5233fa832471aaaccdfda66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azka/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/azka/AndroidStudioProjects/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_5af123b17aac478808d3ec82d184a3035ea63d00/classes.dex" />
+    </item>
+
+</items>

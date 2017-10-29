@@ -5,4 +5,7 @@
     <color name="amber_600">#FFC107</color>
     <color name="amber_900">#FFA000</color>
     <color name="blue_a700">#2962FF</color>
+    <color name="lightBlue_500">#03A9F4</color>
+    <color name="grey_900">#212121</color>
+    <color name="grey_500">#9E9E9E</color>
 </resources>

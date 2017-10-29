@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Notifikasi"
+        android:key="notifikasi">
+        <Preference
+            android:key="notifikasi_status"
+            android:title="Status"
+            android:summary="aktif"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Akun"
+        android:key="akun">
+        <Preference
+            android:key="akun_sunting"
+            android:title="Sunting Profile"/>
+        <Preference
+            android:key="ganti_email"
+            android:title="Ganti Email"/>
+        <Preference
+            android:key="ubah_kata_sandi"
+            android:title="Ubah Kata Sandi"/>
+        <Preference
+            android:key="keluar"
+            android:title="Keluar"/>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -5,15 +5,24 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/amber_600</item>
         <item name="colorPrimaryDark">@color/amber_900</item>
-        <item name="colorAccent">@color/blue_a700</item>
+        <item name="colorAccent">@color/lightBlue_500</item>
+        <item name="android:textColorHint">@color/grey_500</item>
     </style>
 
     <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/amber_600</item>
         <item name="colorPrimaryDark">@color/amber_900</item>
-        <item name="colorAccent">@color/blue_a700</item>
+        <item name="colorAccent">@color/lightBlue_500</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:textColorHint">@color/grey_500</item>
+    </style>
+
+    <style name="ActionBar" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/amber_600</item>
+        <item name="colorPrimaryDark">@color/amber_900</item>
+        <item name="colorAccent">@color/lightBlue_500</item>
+        <item name="android:textColorHint">@color/grey_500</item>
     </style>
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
